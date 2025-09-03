@@ -1,6 +1,8 @@
 # E-commerce-Customer-Behavior-Analysis
+![OIP](https://github.com/user-attachments/assets/d6792933-1205-4004-bd24-3c258d7b06dc)
 
 # 1. Introduction
+
 The objective of this analysis is to study customer behaviour patterns, spending habits, and satisfaction levels based on demographic and membership factors. The dataset includes details such as gender, age, membership type, spending, discounts applied, and satisfaction levels.
 
 # 2. Data Preprocessing
